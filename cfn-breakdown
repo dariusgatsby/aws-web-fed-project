@@ -1,0 +1,2 @@
+This project begins with a CloudFormation template provided by Adrian Cantrill written in YAML. So instead of pretending I provisioned all the infrastructure myself 
+I'll go through the YAML file and briefly touch on all of the major details of the services being provisioned, and my take on the importance of certain aspects 
