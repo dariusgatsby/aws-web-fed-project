@@ -1,3 +1,8 @@
+The goal behind this project was to work with Amazon Cognito and see how it can intergrate with other IdP's, in this case the Google API. I wanted to see how Cognitio could be used as a scalable way to provide authentication.
+
+
+
+
 # **Stage 1**
 
 - In the beginning stage of this project little is required, as resources are provisioned via a CloudFormantion (CFN) template. All that's left is to make sure that the resources were created and configured properly. 
