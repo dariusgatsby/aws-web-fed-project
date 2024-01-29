@@ -1,4 +1,4 @@
-The goal behind this project was to work with Amazon Cognito and see how it can intergrate with other IdP's, in this case the Google API. I wanted to see how Cognitio could be used as a scalable way to provide authentication.
+The goal behind this project was to work with Amazon Cognito and see how it can intergrate with other IdP's, in this case the Google API. I wanted to see how Cognitio could be used as a scalable way to provide authentication and how permissions can scale securly in an enviroment with such high variablity.
 
 
 
